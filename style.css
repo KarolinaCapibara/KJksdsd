@@ -1,16 +1,16 @@
-body {
+body{
     text-align: center;
     font-family: sans-serif;
     background-color: rgb (25, 25, 25);
 }
 
-header {
+header{
     background-color: rgb (25, 25, 25);
     padding: 5 px;
 }
 
 header h1{
-    margin: 10 px 0 px;
+   margin: 10 px 0 px;
    text-align: center;
    background-color: rgb (59, 59, 59);
    padding: 10 px;
@@ -24,7 +24,7 @@ header h1{
 }
 
 nav{
-  margin: 10 px 0 px;
+   margin: 10 px 0 px;
    text-align: center;
    background-color: rgb (102, 102, 102);
    padding: 10 px;
@@ -35,7 +35,7 @@ nav{
     border-radius: 10 px;
 }
 
-nav a {
+nav a{
     color: rgb (239, 239, 239);
     text-decoration: none;
     padding-right: 28 px;
@@ -47,7 +47,7 @@ main img{
     width: 150 px;
 }
 
-img {
+img{
      border: 2 px solid rgb (102, 102, 102);
 }
 
@@ -73,9 +73,9 @@ main a{
     border-radius: 9 px;
 }
 
-footer  {
+footer{
     background-color: rgb (59, 59, 59);
-margin: 10 px 0 px;
+    margin: 10 px 0 px;
    text-align: center;
    padding: 10 px;
    padding-right: 60 px; 
